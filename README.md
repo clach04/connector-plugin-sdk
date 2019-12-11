@@ -4,9 +4,9 @@ This is here for archive reasons.
 
 # DO NOT USE - Original Alpha Actian Tableau Connector
 
-This includes SDK Tableau Connectoras well as Actian Tableau Connectors.
-
 **DO NOT USE** This repo has been replaced by https://github.com/ActianCorp/actian_tableau_connector instead.
+
+This (old repo) includes https://tableau.github.io/connector-plugin-sdk/ as well as Actian Tableau Connectors and test data.
 
 See:
 
