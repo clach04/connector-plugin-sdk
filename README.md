@@ -1,4 +1,7 @@
-# Work In Progress Actian Tableau Connector
+This repo has been replaced by https://github.com/ActianCorp/actian_tableau_connector instead.
+
+
+# Original Actian Tableau Connector
 
 This includes SDK Tableau Connectoras well as Actian Tableau Connectors.
 
